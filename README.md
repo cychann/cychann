@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 <h3 align="center">✨ Tech Stack ✨</h3>  
+<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-#F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 
 <h3 align="center">📚 Studying 📚</h3>
 
