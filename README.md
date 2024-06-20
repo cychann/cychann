@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon Web Services&logoColor=white">
 </div>
 
-<div>
+</br> 
+
   ![cychann's GitHub stats](https://github-readme-stats.vercel.app/api?username=cychann&show_icons=true&?count_private=true)
   ![cychann's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cychann&layout=compact)
-</div>
