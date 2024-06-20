@@ -19,8 +19,8 @@
 
   ![cychann's GitHub stats](https://github-readme-stats.vercel.app/api?username=cychann&show_icons=true&count_private=true)
   ![cychann's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cychann&layout=compact)
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=cychann&show_icons=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychann&layout=compact">
+  
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=cychann&show_icons=true&count_private=true" style="width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychann&layout=compact" style="width: 50%;">
 </div>
