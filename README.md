@@ -19,3 +19,13 @@
 
   ![cychann's GitHub stats](https://github-readme-stats.vercel.app/api?username=cychann&show_icons=true&count_private=true)
   ![cychann's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cychann&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=cychann&show_icons=true&count_private=true" style="width: 100%;">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychann&layout=compact" style="width: 100%;">
+    </td>
+  </tr>
+</table>
