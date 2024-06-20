@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon AWS-4479A1?style=flat&logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon Web Services&logoColor=white">
 
 <h3 align="center">📚 Studying 📚</h3>
 
