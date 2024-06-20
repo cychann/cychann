@@ -1,8 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Hi%20there!%20I'm%20YooChan%20Choi&fontSize=50&fontColor=black" />
 
-
-## Hi there 👋
-
 <h3>✨ Tech Stack ✨</h3>  
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
@@ -17,10 +14,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon Web Services&logoColor=white">
 </div>
-
-<h3>📚 Studying 📚</h3>
-
-<h3>📫 Contact 📫</h3>
 
 ![cychann's GitHub stats](https://github-readme-stats.vercel.app/api?username=cychann&show_icons=true&?count_private=true)
 ![cychann's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cychann&layout=compact)
