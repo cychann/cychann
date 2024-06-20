@@ -6,5 +6,5 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cychann&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cychann&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cychann&layout=compact)
