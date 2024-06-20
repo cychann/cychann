@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=black&height=300&section=header&text=Hi!%20Welcome%20to%20YooChan's%20Profile&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Hi!%20Welcome%20to%20YooChan's%20Profile&fontSize=50&fontColor=black" />
 
 
 ## Hi there 👋
