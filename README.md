@@ -17,7 +17,6 @@
 
 </br> 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cychann)
   ![cychann's GitHub stats](https://github-readme-stats.vercel.app/api?username=cychann&show_icons=true&count_private=true)
   ![cychann's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cychann&layout=compact)
   
