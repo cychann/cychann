@@ -16,7 +16,8 @@
 </div>
 
 </br> 
-
-  ![cychann's GitHub stats](https://github-readme-stats.vercel.app/api?username=cychann&show_icons=true&count_private=true)
-  ![cychann's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cychann&layout=compact)
   
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cychann&show_icons=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychann&layout=compact">
+</p>
