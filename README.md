@@ -18,6 +18,6 @@
 </br> 
 
 <p>
-  <img height="180em" src="https://github-readme-stats-rho-jade-21.vercel.app/api?username=cychann&show_icons=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats-yoochans-projects.vercel.app/api?username=cychann&show_icons=true&include_all_commits=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychann&layout=compact">
 </p>
